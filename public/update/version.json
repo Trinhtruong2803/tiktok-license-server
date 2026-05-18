@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "http://localhost:8008/update/TVT-v1.0.0.exe",
+  "changelog": [
+    "✅ License/Activation System - Bắt buộc kích hoạt",
+    "✅ Auto-Update System",
+    "✅ Browser auto-detection",
+    "✅ Giải Captcha TikTok tự động",
+    "✅ Ghim sản phẩm tự động",
+    "✅ Auto reply bình luận với AI"
+  ],
+  "releaseDate": "2026-05-17",
+  "fileSize": 72000000,
+  "mandatory": false
+}
